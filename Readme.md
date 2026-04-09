@@ -126,10 +126,4 @@ The tests cover the following areas:
 
 Please note that you'll need to update the environment variables in Postman to match your local setup (e.g., `base_url`, `user_token`).
 
-## License
 
-This project is licensed under the Chai-aur-code license.
-
-## Questions
-
-If you have any questions or feedback, please feel free to reach out to me via [GitHub](https://github.com/Raahuldas/VidTube).
